@@ -42,7 +42,7 @@ function ProductSmokingHero(props) {
         Возможно, наше электронное руководство содержит полный ответ на Ваш вопрос?
       </Typography>
       <img
-        src="/static/themes/onepirate/producBuoy.svg"
+        src="/xsphere/static/themes/onepirate/producBuoy.svg"
         className={classes.buoy}
         alt="buoy"
       />

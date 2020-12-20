@@ -56,7 +56,7 @@ function SignUp() {
             Регистрация
           </Typography>
           <Typography variant="body2" align="center">
-            <Link href="/premium-themes/onepirate/sign-in/" underline="always">
+            <Link href="/xsphere/login" underline="always">
               Войти
             </Link>
           </Typography>

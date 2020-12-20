@@ -87,13 +87,13 @@ export default function AppFooter() {
               <Grid item className={classes.icons}>
                 <a className={classes.icon}>
                   <img
-                    src="/static/themes/onepirate/appFooterFacebook.png"
+                    src="/xsphere/static/themes/onepirate/appFooterFacebook.png"
                     alt="Facebook"
                   />
                 </a>
                 <a className={classes.icon}>
                   <img
-                    src="/static/themes/onepirate/appFooterTwitter.png"
+                    src="/xsphere/static/themes/onepirate/appFooterTwitter.png"
                     alt="Twitter"
                   />
                 </a>
