@@ -198,7 +198,7 @@ function ProductCategories(props) {
                 color="inherit"
                 className={classes.imageTitle}
               >
-                <a style={{color: 'inherit', textDecoration: 'none'}} href="http://localhost:3000/static/interactive_model.html">
+                <a style={{color: 'inherit', textDecoration: 'none'}} href="http://roggired.github.io/xsphere/static/interactive_model.html">
                   {image.title}
                 </a>
                 <div className={classes.imageMarked} />
