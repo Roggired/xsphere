@@ -92,7 +92,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1534081333815-ae5019106622?auto=format&fit=crop&w=400&q=80',
       // title: 'Snorkeling',
       url:
-        '/static/themes/onepirate/user_models/model1.jpg',
+        '/xsphere/static/themes/onepirate/user_models/model1.jpg',
       title: 'Батон',
       width: '40%',
     },
@@ -101,7 +101,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1531299204812-e6d44d9a185c?auto=format&fit=crop&w=400&q=80',
       // title: 'Massage',
       url:
-          '/static/themes/onepirate/user_models/model2.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model2.jpg',
       title: 'Стул',
       width: '20%',
     },
@@ -110,7 +110,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=400&q=80',
       // title: 'Hiking',
       url:
-          '/static/themes/onepirate/user_models/model3.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model3.jpg',
       title: 'Джойстик',
       width: '40%',
     },
@@ -119,7 +119,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1453747063559-36695c8771bd?auto=format&fit=crop&w=400&q=80',
       // title: 'Tour',
       url:
-          '/static/themes/onepirate/user_models/model4.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model4.jpg',
       title: 'Гоблин',
       width: '38%',
     },
@@ -128,7 +128,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1523309996740-d5315f9cc28b?auto=format&fit=crop&w=400&q=80',
       // title: 'Gastronomy',
       url:
-          '/static/themes/onepirate/user_models/model5.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model5.jpg',
       title: 'Сумка',
       width: '38%',
     },
@@ -137,7 +137,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?auto=format&fit=crop&w=400&q=80',
       // title: 'Shopping',
       url:
-          '/static/themes/onepirate/user_models/model6.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model6.jpg',
       title: 'Кошелек',
       width: '24%',
     },
@@ -146,7 +146,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1506941433945-99a2aa4bd50a?auto=format&fit=crop&w=400&q=80',
       // title: 'Walking',
       url:
-          '/static/themes/onepirate/user_models/model7.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model7.jpg',
       title: 'IPhone',
       width: '40%',
     },
@@ -155,7 +155,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1533727937480-da3a97967e95?auto=format&fit=crop&w=400&q=80',
       // title: 'Fitness',
       url:
-          '/static/themes/onepirate/user_models/model8.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model8.jpg',
       title: 'Перстень',
       width: '20%',
     },
@@ -164,7 +164,7 @@ function ProductCategories(props) {
       //   'https://images.unsplash.com/photo-1518136247453-74e7b5265980?auto=format&fit=crop&w=400&q=80',
       // title: 'Reading',
       url:
-          '/static/themes/onepirate/user_models/model9.jpg',
+          '/xsphere/static/themes/onepirate/user_models/model9.jpg',
       title: 'Ангелочек',
       width: '40%',
     },

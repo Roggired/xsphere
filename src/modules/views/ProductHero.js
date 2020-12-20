@@ -8,7 +8,7 @@ import {Link} from 'react-router-dom';
 
 // const backgroundImage =
 //   'https://images.unsplash.com/photo-1534854638093-bada1813ca19?auto=format&fit=crop&w=1400&q=80';
-const backgroundImage = '/static/themes/onepirate/hero_background.jpg'
+const backgroundImage = '/xsphere/static/themes/onepirate/hero_background.jpg'
 
 const styles = (theme) => ({
   background: {
